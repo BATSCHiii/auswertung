@@ -92,9 +92,9 @@ responding ot add 000000010
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Instruction_Cache] *****
 Hits: 1
-Misses : 5
+Misses: 5
 Reads : 5
 Read hits: 1
 Read misses: 5
@@ -140,9 +140,9 @@ Replacements: 0
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Data_Cache] *****
 Hits: 0
-Misses : 1
+Misses: 1
 Reads : 1
 Read hits: 0
 Read misses: 1
@@ -220,9 +220,9 @@ Replacements: 0
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Unified_Cache] *****
 Hits: 0
-Misses : 5
+Misses: 5
 Reads : 5
 Read hits: 0
 Read misses: 5

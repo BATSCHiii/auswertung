@@ -15494,9 +15494,9 @@ Info: /OSCI/SystemC: Simulation stopped by user.
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Instruction_Cache] *****
 Hits: 6
-Misses : 386
+Misses: 386
 Reads : 391
 Read hits: 6
 Read misses: 386
@@ -15526,9 +15526,9 @@ Replacements: 378
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Data_Cache] *****
 Hits: 153
-Misses : 9
+Misses: 9
 Reads : 122
 Read hits: 122
 Read misses: 0
@@ -15798,9 +15798,9 @@ Replacements: 1
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Unified_Cache] *****
 Hits: 357
-Misses : 78
+Misses: 78
 Reads : 395
 Read hits: 317
 Read misses: 78

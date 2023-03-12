@@ -259,9 +259,9 @@
 HIT STOP000000013
 
 Info: /OSCI/SystemC: Simulation stopped by user.
-***** [LOGGER] *****
+***** [LOGGER: Instruction_Cache] *****
 Hits: 12
-Misses : 19
+Misses: 19
 Reads : 31
 Read hits: 12
 Read misses: 19
@@ -283,9 +283,9 @@ Replacements: 15
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Data_Cache] *****
 Hits: 5
-Misses : 1
+Misses: 1
 Reads : 5
 Read hits: 5
 Read misses: 0

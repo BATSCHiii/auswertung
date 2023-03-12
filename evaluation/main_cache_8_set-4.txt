@@ -322,9 +322,9 @@ Info: /OSCI/SystemC: Simulation stopped by user.
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Instruction_Cache] *****
 Hits: 0
-Misses : 33
+Misses: 33
 Reads : 33
 Read hits: 0
 Read misses: 33
@@ -346,9 +346,9 @@ Replacements: 25
 
 
 
-***** [LOGGER] *****
+***** [LOGGER: Data_Cache] *****
 Hits: 0
-Misses : 0
+Misses: 0
 Reads : 0
 Read hits: 0
 Read misses: 0

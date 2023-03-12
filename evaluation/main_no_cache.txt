@@ -301,9 +301,9 @@ TRIGGERED AT 0 s
    2970 ns 0x000000008 0x00fe02823     1     0           0 0x0deadbeef 0x000000000 0x000000000  0x00     0     0
    2980 ns 0x000000008 0x00fe02823     1     0           0 0x0deadbeef 0x000000000 0x000000000  0x00     0     0
    2990 ns 0x000000008 0x00fe02823     1     0           0 0x0deadbeef 0x000000000 0x000000000  0x00     0     0
-***** [LOGGER] *****
+***** [LOGGER: ] *****
 Hits: 0
-Misses : 3
+Misses: 3
 Reads : 3
 Read hits: 0
 Read misses: 3
@@ -311,9 +311,9 @@ Writes: 0
 Write hits: 0
 Write misses: 0
 Replacements: 0
-***** [LOGGER] *****
+***** [LOGGER: ] *****
 Hits: 0
-Misses : 0
+Misses: 0
 Reads : 0
 Read hits: 0
 Read misses: 0

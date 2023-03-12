@@ -33,6 +33,7 @@ public:
 		sc_module(n),
 		cache(name(), config)
 	{
+		logger.name = name();
 		// Register the main loop as systemc thread
 		SC_THREAD(handle_request);
 	}
